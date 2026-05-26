@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Retro 80s palette -->
+    <color name="retro_dark_blue">#1A1A4A</color>
+    <color name="retro_road">#222233</color>
+    <color name="retro_sidewalk">#C4A77D</color>
+    <color name="retro_yellow">#F4E04D</color>
+    <color name="retro_orange">#E07020</color>
+    <color name="retro_red">#B03030</color>
+    <color name="retro_green">#2E8B57</color>
+    <color name="retro_white">#F5F5F5</color>
+    <color name="retro_light_blue">#5DADE2</color>
+    <color name="retro_pink">#E070A0</color>
+    <color name="retro_gray">#666677</color>
+</resources>

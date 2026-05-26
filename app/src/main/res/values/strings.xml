@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yayos Game</string>
+    <string name="title_barcelona">BARCELONA — LA SAGRADA FAMILIA</string>
+    <string name="subtitle">¡Cuidado con los patinetes!</string>
+    <string name="easy">EASY</string>
+    <string name="medium">MEDIUM</string>
+    <string name="hard">HARD</string>
+    <string name="select_difficulty">CHOOSE DIFFICULTY</string>
+    <string name="saved">SAVED</string>
+    <string name="lost">LOST</string>
+    <string name="retry">RETRY</string>
+    <string name="back_to_menu">MENU</string>
+</resources>
